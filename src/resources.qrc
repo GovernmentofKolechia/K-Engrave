@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file alias="main.qml">main.qml</file>
+    <file alias="app-icon.svg">app-icon.svg</file>
+</qresource>
+</RCC>

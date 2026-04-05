@@ -1,0 +1,5 @@
+/home/jesse/k-engrave/build/CMakeFiles/kengrave.dir
+/home/jesse/k-engrave/build/CMakeFiles/edit_cache.dir
+/home/jesse/k-engrave/build/CMakeFiles/rebuild_cache.dir
+/home/jesse/k-engrave/build/CMakeFiles/kengrave_autogen_timestamp_deps.dir
+/home/jesse/k-engrave/build/CMakeFiles/kengrave_autogen.dir

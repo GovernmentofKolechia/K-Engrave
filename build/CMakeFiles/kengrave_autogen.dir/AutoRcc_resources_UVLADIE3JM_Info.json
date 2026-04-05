@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/jesse/k-engrave/build/kengrave_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jesse/k-engrave/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jesse/k-engrave/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jesse/k-engrave",
+	"CMAKE_SOURCE_DIR" : "/home/jesse/k-engrave",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/jesse/k-engrave/build/kengrave_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jesse/k-engrave/src/app-icon.svg",
+		"/home/jesse/k-engrave/src/main.qml"
+	],
+	"LOCK_FILE" : "/home/jesse/k-engrave/build/CMakeFiles/kengrave_autogen.dir/AutoRcc_resources_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jesse/k-engrave/build/CMakeFiles/kengrave_autogen.dir/AutoRcc_resources_UVLADIE3JM_Used.txt",
+	"SOURCE" : "/home/jesse/k-engrave/src/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
