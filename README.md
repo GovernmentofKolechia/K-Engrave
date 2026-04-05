@@ -1,4 +1,5 @@
 <img width="546" height="813" alt="image" src="https://github.com/user-attachments/assets/fe28c315-eb06-4dcb-bbc3-6990cc4d6654" />
+
 This is K-Engrave,
 A tool where you can control your SystemD Jobs easily without commands such as:
 
@@ -24,8 +25,17 @@ cd k-engrave
 
 cd build
 
-4. Execute the "make" command to build K-Engrave
-5. Execute the command to open the app!
+4. CLEAR THE PREVIOUS BUILD FILES.
+
+rm -rf * // EXECUTE THIS INSIDE THE BUILD FILE
+
+5. MAKE YOUR OWN CONFIGURATION FOR "MAKE"
+
+cmake ..
+
+
+6. Execute the "make" command to build K-Engrave
+7. Execute the command to open the app!
 
 ./kengrave
 
