@@ -5,8 +5,11 @@ A tool where you can control your SystemD Jobs easily without commands such as:
 
 
 systemctl stop "job"
+
 systemctl restart "job"
+
 systemctl start "job"
+
 systemctl status
 
 And More.
